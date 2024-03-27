@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hai 👋
+
+[![Justin Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdrew82)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jdrew82/jdrew82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
