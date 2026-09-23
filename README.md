@@ -1,6 +1,6 @@
 ### Oh hai 👋
 
-[![Justin Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdrew82)](https://github.com/anuraghazra/github-readme-stats)
+[![Justin Drew's GitHub stats](https://github-stats-extended.vercel.app/api?username=jdrew82)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Network Automation.
 - 📫 How to reach me: Slack -> Join at http://slack.networktocode.com/
